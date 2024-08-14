@@ -1,0 +1,262 @@
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git[K[K[Kgit congif[Kg[K[K[Kfig --global user.nem[K[K[Kname "jpcohen"
+[?2004l]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git config -- [Kglobal user.email jpcohen@ucs[K[K[K[K[K[K[K[K[K[Kpc071997@ga[Kmail.com
+[?2004l]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git config -- [Kglobal credential.helm[Kper 'cac[K[Kache[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^V^?[K[K^[[200~02hGo$wkfH&~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit config --list --global
+[?2004l[?1h=user.name=jpcohen[m
+user.email=jpc071997@gmail.com[m
+[K[?1l>]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ gti conf[K[K[K[K[K[K[Kit config --globalcre[K[K[K credential he[K[K[K[Kl.helper 'cah[K[Kache --timeout=1000000[K[K[K[K[K[K0000000'
+[?2004l]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git config --global credential.helper 'cache --timeout=10000000'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clist --global[K
+[?2004l[?1h=user.name=jpcohen[m
+user.email=jpc071997@gmail.com[m
+credential.helper=cache --timeout=10000000[m
+[K[?1l>]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mR[0m
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("/USer[K[K[Ksers/medstest2025/worj[Kkbbench-setup")[C[1Pbbench-setup")[C[C[Ckbbench-setup")[C[1Pench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C\[K
+[?2004lbash: syntax error near unexpected token `"/Users/medstest2025/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("/Users/medstest2025/workbench-setup")[1Ps/medstest2025/workbench-setup")[1Ps/medstest2025/workbench-setup")[1P/medstest2025/workbench-setup")[1Ps/medstest2025/workbench-setup")[C[1Ps/medstest2025/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cjs/medstest2025/workbench-setup")[1Ps/medstest2025/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/s/medstest2025/workbench-setup")[C[1P/medstest2025/workbench-setup")j/medstest2025/workbench-setup")p/medstest2025/workbench-setup")c/medstest2025/workbench-setup")o/medstest2025/workbench-setup")h/medstest2025/workbench-setup")e/medstest2025/workbench-setup")n/medstest2025/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"/jpcohen/medstest2025/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("/jpcohen/medstest2025/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PUsers/medstest2025/workbench-setup")[C[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")[1P/workbench-setup")j/workbench-setup")p/workbench-setup")c/workbench-setup")o/workbench-setup")h/workbench-setup")e/workbench-setup")n/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"/Users/jpcohen/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwdsetwd("/Users/jpcohen/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"/Users/jpcohen/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ mkdir[Kr workbench-setup
+[?2004l]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwdmkdir workbench-setupsetwd("/Users/jpcohen/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"/Users/jpcohen/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("/Users/jpcohen/workbench-setup")[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/[K\Users\jpcohen\workbench-setup")
+[?2004lbash: syntax error near unexpected token `"\Users\jpcohen\workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("\Users\jpcohen\workbench-setup")psers\jpcohen\workbench-setup")[1Psers\jpcohen\workbench-setup")/Users/jpcohen/workbench-setup")[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwdsetwd("\Users\jpcohen\workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/Users/jpcohen/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"/Users/jpcohen/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ getwd()
+[?2004l[?2004h> ^C[?2004l[?2004h[?2004l
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pwdgetwd()  echo 562B0AB4 && echo $HISTCONTROL && /usr/bin/env && echo 4397527A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Psetwd("/Users/jpcohen/workbench-setup")[C[1PUsers/jpcohen/workbench-setup")
+[?2004lbash: syntax error near unexpected token `"Users/jpcohen/workbench-setup"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("Users/jpcohen/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Ksetwd("Users/jpcohen/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kgetwd()  echo 562B0AB4 && echo $HISTCONTROL && /usr/bin/env && echo 4397527A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Psetwd("/Users/jpcohen/workbench-setup")/")
+[?2004lbash: syntax error near unexpected token `"/Users/jpcohen/workbench-setup/"'
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ setwd("/Users/jpcohen/workbench-setup/")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2PUsers/jpcohen/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kgetwd()  echo 562B0AB4 && echo $HISTCONTROL && /usr/bin/env && echo 4397527A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Psetwd("/Users/jpcohen/workbench-setup")[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgetwd()  echo 562B0AB4 && echo $HISTCONTROL && /usr/bin/env && echo 4397527A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Psetwd("/Users/jpcohen/workbench-setup")^C[?2004l[?2004h[?2004l
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ ^C[?2004l[?2004h[?2004l
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ pe[Kwd
+[?2004l/Users/jpcohen
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ mkdri[K[K[Kir[K[Kdir workbench
+[?2004l]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ mkdir workbench-setup workbench
+[?2004lmkdir: cannot create directory ‘workbench-setup’: File exists
+pwd
+[?2004l/Users/jpcohen
+git status
+[?2004lfatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ ^V
+[?2004l: command not found
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ c[Kgit init
+[?2004l[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/jpcohen/.git/
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ g
+it remote add origin [K[A[A]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin [K]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin 
+[?2004lusage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin -m
+[?2004lerror: switch `m' requires a value
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add origin -m[K[K[K[K[K[K[K[K[K-m
+[?2004lerror: switch `m' requires a value
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add -m[Kf
+[?2004lusage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git remote add -f[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^V^Z[K[K^[[200~echo "# workbench-setup" >> README.md~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mecho "# workbench-setup" >> README.md[27m
+[7mgit init[27m
+[7mgit add README.md[27m
+[7mgit commit -m "first commit"[27m
+[7mgit branch -M main[27m
+[7mgit remote add origin https://github.com/silkieMoth/workbench-setup.git[27m
+[7mgit push -u origin main[27m[A[A[A[A[A[Aecho "# workbench-setup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/silkieMoth/workbench-setup.git
+git push -u origin main
+[?2004lReinitialized existing Git repository in /Users/jpcohen/.git/
+[master (root-commit) 25b45a7] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+Enumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 226 bytes | 226.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/silkieMoth/workbench-setup.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.Rhistory[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.cache/[m
+	[31m.config/[m
+	[31m.gitconfig[m
+	[31m.lesshst[m
+	[31m.local/[m
+	[31m.profile[m
+	[31mworkbench-setup/[m
+	[31mworkbench/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git add.
+[?2004lgit: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git add .
+[?2004lwarning: adding embedded git repository: workbench-setup/workbench/workbench
+[33mhint: You've added another git repository inside your current repository.[m
+[33mhint: Clones of the outer repository will not contain the contents of[m
+[33mhint: the embedded repository and will not know how to obtain it.[m
+[33mhint: If you meant to add a submodule, use:[m
+[33mhint: [m
+[33mhint: 	git submodule add <url> workbench-setup/workbench/workbench[m
+[33mhint: [m
+[33mhint: If you added this path by mistake, you can remove it from the[m
+[33mhint: index with:[m
+[33mhint: [m
+[33mhint: 	git rm --cached workbench-setup/workbench/workbench[m
+[33mhint: [m
+[33mhint: See "git help submodule" for more information.[m
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   .Rhistory[m
+	[32mnew file:   .bash_history[m
+	[32mnew file:   .bash_logout[m
+	[32mnew file:   .bashrc[m
+	[32mnew file:   .cache/deno/dep_analysis_cache_v1[m
+	[32mnew file:   .cache/motd.legal-displayed[m
+	[32mnew file:   .config/rstudio/rstudio-prefs.json[m
+	[32mnew file:   .gitconfig[m
+	[32mnew file:   .lesshst[m
+	[32mnew file:   .local/share/rstudio/addin_registry[m
+	[32mnew file:   .local/share/rstudio/client-state/environment-grid.persistent[m
+	[32mnew file:   .local/share/rstudio/client-state/quarto.persistent[m
+	[32mnew file:   .local/share/rstudio/client-state/source-column-manager.persistent[m
+	[32mnew file:   .local/share/rstudio/client-state/themes.persistent[m
+	[32mnew file:   .local/share/rstudio/client-state/workbenchp.persistent[m
+	[32mnew file:   .local/share/rstudio/delivered_notifications[m
+	[32mnew file:   .local/share/rstudio/history_database[m
+	[32mnew file:   .local/share/rstudio/log/rsession-jpcohen.log[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/command_palette_mru[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/file_mru[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/help_history_links[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/notebooks[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/plot_publish_mru[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/project_mru[m
+	[32mnew file:   .local/share/rstudio/monitored/lists/user_dictionary[m
+	[32mnew file:   .local/share/rstudio/notebooks/patch-chunk-names[m
+	[32mnew file:   .local/share/rstudio/pcs/files-pane.pper[m
+	[32mnew file:   .local/share/rstudio/pcs/source-pane.pper[m
+	[32mnew file:   .local/share/rstudio/pcs/windowlayoutstate.pper[m
+	[32mnew file:   .local/share/rstudio/pcs/workbench-pane.pper[m
+	[32mnew file:   .local/share/rstudio/persistent-state[m
+	[32mnew file:   .local/share/rstudio/projects_settings/last-project-path[m
+	[32mnew file:   .local/share/rstudio/projects_settings/project-id-mappings[m
+	[32mnew file:   .local/share/rstudio/projects_settings/update-pkg-install-default[m
+	[32mnew file:   .local/share/rstudio/rstudio-server.json[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf151136e34-RVersion[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf151136e34-RVersionHome[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf151136e34-RVersionLabel[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf1711d4907-RVersion[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf1711d4907-RVersionHome[m
+	[32mnew file:   .local/share/rstudio/rversion-settings/b7bf1711d4907-RVersionLabel[m
+	[32mnew file:   .local/share/rstudio/saved_source_markers[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/console07/B4F99365[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/console07/INDEX001[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/graphics-r3/empty.png[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/activity_state[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/blocking_suspend[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/created[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/editor[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/executing[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/initial[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/label[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/last-used[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/last_resumed[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/last_state_updated[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/launch-parameters[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/project[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/r-version[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/r-version-home[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/r-version-label[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/running[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/save_prompt_required[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/suspend_timestamp[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/properites/working-dir[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/rmd-outputs[m
+	[32mnew file:   .local/share/rstudio/sessions/active/session-1966270d/session-persistent-state[m
+	[32mnew file:   .local/share/rstudio/ssl/cert-93334.pem[m
+	[32mnew file:   .local/share/rstudio/ssl/key-93334.pem[m
+	[32mnew file:   .profile[m
+	[32mnew file:   workbench-setup/workbench/workbench[m
+	[32mnew file:   workbench/.Rproj.user/1C32D15A/pcs/files-pane.pper[m
+	[32mnew file:   workbench/.Rproj.user/1C32D15A/pcs/source-pane.pper[m
+	[32mnew file:   workbench/.Rproj.user/1C32D15A/pcs/windowlayoutstate.pper[m
+	[32mnew file:   workbench/.Rproj.user/1C32D15A/pcs/workbench-pane.pper[m
+	[32mnew file:   workbench/.Rproj.user/1C32D15A/saved_source_markers[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   .local/share/rstudio/sessions/active/session-1966270d/console07/B4F99365[m
+
+]0;/Users/jpcohen[?2004h]0;jpcohen@workbench-1: ~[01;32mjpcohen@workbench-1[00m:[01;34m~[00m$ git add.[K .
